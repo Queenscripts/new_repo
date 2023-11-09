@@ -1,2 +1,2 @@
 # new_repo
-demo of new repo
+This is a demo of a new repo
